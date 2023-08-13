@@ -1,0 +1,7 @@
+
+# pyvista backend
+panel
+
+meshio
+--no-binary=h5py
+h5py
